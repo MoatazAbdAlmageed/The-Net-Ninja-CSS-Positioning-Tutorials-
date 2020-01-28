@@ -27,6 +27,11 @@ body {
 .service * {
   padding: 10px;
 }
+.service img {
+  width: 120px;
+  display: block;
+  margin: auto;
+}
 .content {
   padding: 10px;
 }
