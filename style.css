@@ -1,9 +1,17 @@
 * {
   font-family: lato;
   line-height: 1.5em;
+  color: #333333;
 }
 body {
   background: #eeeeee;
+}
+p {
+  text-align: justify;
+  text-justify: inter-word;
+}
+h2 {
+  text-align: center;
 }
 #content {
   padding: 10px;
@@ -34,6 +42,11 @@ body {
 }
 .content {
   padding: 10px;
+}
+.content p {
+  column-count: 3;
+  column-gap: 30px;
+  column-rule: 1px solid #ccc;
 }
 .columns {
   margin-top: 20px;
