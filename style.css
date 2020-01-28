@@ -43,11 +43,6 @@ h2 {
 .content {
   padding: 10px;
 }
-.content p {
-  column-count: 3;
-  column-gap: 30px;
-  column-rule: 1px solid #ccc;
-}
 .columns {
   margin-top: 20px;
 }
