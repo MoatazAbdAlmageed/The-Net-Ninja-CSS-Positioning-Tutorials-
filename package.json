@@ -1,0 +1,24 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoatazAbdAlmageed/The-Net-Ninja-CSS-Positioning-Tutorials-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MoatazAbdAlmageed/The-Net-Ninja-CSS-Positioning-Tutorials-/issues"
+  },
+  "homepage": "https://github.com/MoatazAbdAlmageed/The-Net-Ninja-CSS-Positioning-Tutorials-#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}

@@ -1,60 +1,75 @@
 * {
-  font-family: lato;
-  line-height: 1.5em;
-  color: #333333;
+    font-family: lato;
+    line-height: 1.5em;
+    color: #333333;
 }
+
 body {
-  background: #eeeeee;
+    background: #eeeeee;
 }
+
 p {
-  text-align: justify;
-  text-justify: inter-word;
+    text-align: justify;
+    text-justify: inter-word;
 }
+
 h2 {
-  text-align: center;
+    text-align: center;
 }
+
 #content {
-  padding: 10px;
-  margin: auto;
-  width: 80%;
-  background: #fff;
+    padding: 10px;
+    margin: auto;
+    width: 80%;
+    background: #fff;
 }
 
 .services::after {
-  clear: both;
-  display: block;
-  content: "";
+    clear: both;
+    display: block;
+    content: "";
 }
+
 .service {
-  float: left;
-  background: #f2f2f2;
-  width: 30.333%;
-  padding: 0 5px;
-  margin: 0 9px;
+    float: left;
+    background: #f2f2f2;
+    width: 30.333%;
+    padding: 0 5px;
+    margin: 0 9px;
 }
+
 .service * {
-  padding: 10px;
+    padding: 10px;
 }
+
 .service img {
-  width: 120px;
-  display: block;
-  margin: auto;
+    width: 120px;
+    display: block;
+    margin: auto;
 }
+
 .content {
-  padding: 10px;
+    padding: 10px;
 }
+
 .columns {
-  margin-top: 20px;
+    margin-top: 20px;
 }
+
 .columns::after {
-  clear: both;
-  display: block;
-  content: "";
+    clear: both;
+    display: block;
+    content: "";
 }
+
 .col {
-  width: 45%;
-  float: left;
-  background: #f0f0f0;
-  padding: 14px;
-  margin: 0 10px;
+    width: 45%;
+    float: left;
+    background: #f0f0f0;
+    padding: 14px;
+    margin: 0 10px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #333333;
 }
